@@ -1,59 +1,39 @@
-# Calculadora de Média de Alunos
+# Exercícios de Programação - Faculdade
 
-Projeto em Python que calcula a média das notas de um aluno e informa sua situação final.
+Este repositório reúne exercícios e atividades desenvolvidas durante a graduação em **Sistemas de Informação**.  
+Os códigos foram criados com o objetivo de praticar **lógica de programação, estruturas de dados e conceitos básicos de desenvolvimento de software** utilizando diferentes linguagens.
 
-## Funcionalidades
+## Linguagens 
 
-- Calcular média das notas
-- Informar situação do aluno:
-  - Aprovado
-  - Recuperação
-  - Reprovado
+- C#
+- Java
+- Python
 
-## Tecnologia
+## Estrutura do repositório
 
-- C Sharp
+csharp → exercícios desenvolvidos em C#  
+java → exercícios desenvolvidos em Java  
+python → exercícios desenvolvidos em Python  
 
-## Estrutura do projeto
+Cada pasta contém pequenos programas e atividades propostas durante as disciplinas da faculdade.
 
-src → código principal  
-exemplos → exemplos de uso  
-tests → testes do sistema
+## Objetivo
 
-## Exemplo
+Praticar e consolidar conhecimentos em:
 
-Notas: 8, 7.5, 6, 9
+- Lógica de programação
+- Estruturas de controle
+- Manipulação de listas e coleções
+- Entrada e saída de dados
+- Estruturas básicas de dados
 
-Média: 7.63  
-Situação: Aprovado
+## Exemplos de exercícios
 
-# Operações com Lista de Números em Python
+- Lista de números utilizando **List em C#**
+- Cálculo de média de alunos em **Python**
+- Exercícios básicos de lógica em **Java**
 
-Projeto simples em Python que realiza operações básicas com uma lista de números.
+## Autora
 
-## Funcionalidades
-
-- Calcular soma
-- Calcular média
-- Identificar maior número
-- Identificar menor número
-
-## Tecnologia
-
-- Python 3
-
-## Estrutura do projeto
-
-src → código principal  
-exemplos → exemplo de uso do sistema
-
-## Exemplo de saída
-
-Lista de números: [10, 20, 30, 40, 50]
-
-Soma: 150  
-Média: 30  
-Maior número: 50  
-Menor número: 10
-
-
+Lívia Correia da Silva  
+Graduada em Sistemas de Informação
