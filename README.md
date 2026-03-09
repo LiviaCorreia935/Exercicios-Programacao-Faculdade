@@ -34,6 +34,8 @@ Praticar e consolidar conhecimentos em:
 - Lista de números utilizando **List em C#**
 - Cálculo de média de alunos em **Python**
 - Exercícios básicos de lógica em **Java**
+- Exercícios básicos de lógica em **Kotlin**
+- Projeto de modelagem de banco de dados relacional em **SQL**
 
 ## Autora
 
