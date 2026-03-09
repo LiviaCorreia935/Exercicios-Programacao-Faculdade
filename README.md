@@ -38,7 +38,7 @@ Projeto simples em Python que realiza operações básicas com uma lista de núm
 - Identificar maior número
 - Identificar menor número
 
-## Tecnologias utilizadas
+## Tecnologia
 
 - Python 3
 
