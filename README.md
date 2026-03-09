@@ -10,7 +10,7 @@ Projeto em Python que calcula a média das notas de um aluno e informa sua situa
   - Recuperação
   - Reprovado
 
-## Tecnologias utilizadas
+## Tecnologia
 
 - Python 3
 
