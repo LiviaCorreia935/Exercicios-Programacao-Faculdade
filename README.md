@@ -12,7 +12,7 @@ Projeto em Python que calcula a média das notas de um aluno e informa sua situa
 
 ## Tecnologia
 
-- Python 3
+- C Sharp
 
 ## Estrutura do projeto
 
@@ -56,7 +56,4 @@ Média: 30
 Maior número: 50  
 Menor número: 10
 
-## Como executar
 
-```bash
-python exemplos/exemplo_uso.py
