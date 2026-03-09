@@ -3,11 +3,13 @@
 Este repositório reúne exercícios e atividades desenvolvidas durante a graduação em **Sistemas de Informação**.  
 Os códigos foram criados com o objetivo de praticar **lógica de programação, estruturas de dados e conceitos básicos de desenvolvimento de software** utilizando diferentes linguagens.
 
-## Linguagens 
+## Linguagens e Tecnologias
 
 - C#
 - Java
 - Python
+- Kotlin
+- Banco de Dados SQL
 
 ## Estrutura do repositório
 
