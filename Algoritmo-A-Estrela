@@ -1,4 +1,4 @@
-class Vertice: # classe Vertice para representar cada cidade (ou nó) no grafo
+class Vertice: # classe Vertice para representar cada cidade (ou nó) no grafo.
   
     def __init__(self, rotulo, distancia_objetivo):
         self.rotulo = rotulo # atributo que representa o nome da cidade
