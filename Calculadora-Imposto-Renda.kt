@@ -2,7 +2,7 @@ fun main(){
       var salario_anual:Float 
       var imposto: Float = 0.0f 
       
-      println("Digite o salario anual: ") 
+      println("Digite o salario anual:  ") 
       salario_anual = readLine()!!.toFloat() 
   
   
