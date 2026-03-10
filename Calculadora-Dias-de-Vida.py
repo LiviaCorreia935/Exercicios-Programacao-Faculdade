@@ -1,5 +1,5 @@
  Importa a classe datetime do módulo datetime 
-#Essa classe é usada para trabalhar com datas e horas
+#Essa classe é usada para trabalhar com datas e horas.
 
 from datetime import datetime 
 
