@@ -1,6 +1,6 @@
 ---EXECUTAR O CODIGO NO MYSQL - Linguegem sql-
     
-    ---criando o banco de dados----
+    ---criando o banco de dados---
     CREATE DATABASE Clinicas 
     
     --criando a tabela ambulatorios---nova consulta-- 
