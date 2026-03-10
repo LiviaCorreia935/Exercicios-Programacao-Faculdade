@@ -1,4 +1,4 @@
-public class Main { //Declaração da Classe Principal para inicar o programa//
+public class Main { //Declaração da Classe Principal para inicar o programa //
     public static void main(String[] args) { //Este é o método que será executado quando o programa iniciar porque ele contém o código principal
     // declara as variaveis//
         int media_987; //Declaracao de variáveis inteiras que armazenarão as médias dos dois conjuntos de números (9, 8, 7) e (4, 5, 6).
